@@ -4,7 +4,7 @@ import '../styles/Footer.css'
 const Footer = () => {
   return (
     <div className="Footer">
-      <h4>@SSP Foods - Have a feast with the tasty food everyday....</h4>
+      <h4>@SB Foods - Have a feast with the tasty food everyday....</h4>
       <div className="footer-body">
 
         <ul>
@@ -35,7 +35,7 @@ const Footer = () => {
 
       </div>
       <div className="footer-bottom">
-        <p>@ ssp-foods.com - All rights reserved</p>
+        <p>@ SB-foods.com - All rights reserved</p>
       </div>
     </div>
   )
